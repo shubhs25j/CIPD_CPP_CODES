@@ -1,0 +1,9 @@
+write a code for Passenger class add a micro to set maximun_seats as 10 with seano,passengerName,availablity of type int which can be zeo or one,age and 
+member function as default and parameterized constructor display function write another class to control fuctionality of customer 
+called reservation with data member array of Passenger object 
+and member function as bookticket() pass Passengername,age,gender,
+it should book ticket for Passenger by updating the seat status if seat is not available throw an exception make use of user defined excetion class 
+countNumberOfpassenger()
+showdetails()
+searchPassengerDetailsByname()
+i want this code in seprate header file and .cpp file along with the main function 

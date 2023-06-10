@@ -1,0 +1,123 @@
+1)person
+attributes
+-name
+-height
+-weight
+
+functions
+-walking
+-eating
+-drinking
+
+ 
+
+2)mobile
+attributes:
+-screen;
+-camera;
+-sim;
+
+functions;
+-making calls
+-tacking photos
+-listening music
+
+ 
+
+3)laptop
+attributes:
+-screen
+-color
+-spekers
+
+functions-
+-making reports
+-wathing video
+-sending mails
+
+ 
+
+4)water bottel
+attributes:
+-capacity
+-material
+-color
+
+functions
+-filling .
+-emptying
+-drinking from bottel
+
+ 
+
+5) Harmonium
+attributes:
+-color
+-total_keys;
+-bellows
+
+functions:
+-Sound()
+
+ 
+
+6)bike
+attributes
+-bike_name
+-engine
+-wheel_type
+
+functions
+-riding forword
+-ignition on
+-ignition off
+
+ 
+
+7)hard disk
+attributes-
+-brand-name
+-capacity
+-storage type
+
+functions-
+-adding data
+-removing data
+-copying data
+
+ 
+
+8)bank account
+-account no
+-acc_holder name
+-balance
+
+functions
+-deposite
+-withdraw
+-check balance
+
+ 
+
+9)mixer
+attributes:
+-color
+-blade-type
+-rpm
+
+functions:
+-mixing
+
+ 
+
+10)watch
+attributes:
+-dial type;
+-color;
+-belt_type;
+
+functions;
+-show time
+-show date
+-alarm
+
